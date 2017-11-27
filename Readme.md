@@ -48,4 +48,30 @@ DESARROLLO
 
 **2.5. Navegación Contextual**
 
-![Facet/Filt](assets/docs/contextual2.jpg "Facet/Filt")
+![Contextual](assets/docs/contextual2.jpg "Contextual")
+
+**2.6. Navegación en Línea**
+
+![Línea](assets/docs/linea2.jpg "Línea")
+
+## **3. Medium**
+
+**3.1. Navegación Global**
+
+![Global](assets/docs/global3.jpg "Global")
+
+**3.2. Navegación Local**
+
+![Local](assets/docs/local3.jpg "Local")
+
+**3.3. Navegación Facetada**
+
+![Facetada](assets/docs/facetada3.jpg "Facetada")
+
+**3.4. Navegación Contextual**
+
+![Contextual](assets/docs/contextual3.jpg "Contextual")
+
+**3.5. Navegación en Línea**
+
+![Línea](assets/docs/linea3.jpg "Línea")
